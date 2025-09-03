@@ -23,3 +23,17 @@
 * [Clase](https://www.youtube.com/watch?v=uBtd9Jvuzkw)
   
 * [Recursos]
+---
+
+## 5° Clase Jueves 21/08/2025
+* [Clase](https://www.youtube.com/watch?v=gim8OZzDZoc)
+  
+* [Recursos]
+---
+
+## 6° Clase Jueves 21/08/2025
+* [Clase](https://www.youtube.com/watch?v=FXtyhDyA6Gk)
+  
+* [Recursos]
+
+
