@@ -1,0 +1,17 @@
+Calendario=
+
+ADDCOLUMNS (
+
+    CALENDAR (DATE(2020,1,3), DATE(2022,01,09)), 
+
+    "Año", YEAR([Date]),
+
+    "Mes", FORMAT([Date], "MMMM"),
+
+    "MesNúmero", MONTH([Date]),
+
+    "Trimestre", "T" & FORMAT([Date], "Q"),
+
+    "AñoMes", FORMAT([Date], "YYYY-MM")
+
+)

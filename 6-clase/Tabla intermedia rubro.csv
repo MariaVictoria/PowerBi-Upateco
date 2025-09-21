@@ -1,0 +1,15 @@
+id;Rubro;Grupo;;;;;;;;;;;
+1;automotriz;Industria pesada;;;;;;;;;;;total_industria
+2;bebidas;Alimentos y tabaco;;;;;;;;;;;
+3;caucho_y_plastico;Materiales;;;;;;;;;;;
+4;madera_papel_y_edicion;Materiales;;;;;;;;;;;
+5;metales_basicos;Industria pesada;;;;;;;;;;;
+6;metalmecanica;Industria pesada;;;;;;;;;;;
+7;minerales_no_metalicos;Materiales;;;;;;;;;;;
+8;molienda_cereales_y_oleaginosas;Alimentos y tabaco;;;;;;;;;;;
+9;quimicos;Energía y Químicos;;;;;;;;;;;
+10;refinacion_de_petroleo;Energía y Químicos;;;;;;;;;;;
+11;resto_de_alimentos;Alimentos y tabaco;;;;;;;;;;;
+12;resto_de_industria;Otros;;;;;;;;;;;
+13;tabaco;Alimentos y tabaco;;;;;;;;;;;
+14;textil_indumentaria_y_cuero;Textil y Consumo;;;;;;;;;;;
