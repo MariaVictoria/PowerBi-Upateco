@@ -14,6 +14,7 @@
 ## 2° Clase Jueves 14/08/2025
 
 - [Clase](https://www.youtube.com/watch?v=0w2dpPoDAsg)
+
 - [Recursos](https://github.com/MariaVictoria/PowerBi-Upateco/tree/main/clase%202)
 
 ---
@@ -74,36 +75,51 @@ Faltó
 
 - [Clase](https://drive.google.com/file/d/1GkbuMjWGp4U_3IfXHvi7Rebza1yTCjrW/view)
 - [Recursos]()
+---
 
 ## [alt text](image-1.png)
 [yt](https://www.youtube.com/shorts/ApkTbl2spZs)
 
+---
 
 ## 8° Clase 08/09/2025
 [Clase](https://www.youtube.com/watch?v=YA5mCdgmx5I)
 [Recursos]()
 
+---
 
 ## 9° Clase
 [Clase](https://www.youtube.com/watch?v=G83242-85Xk)
 [Recursos]()
+---
 
 
 ## 10° Clase
 [Clase](https://www.youtube.com/watch?v=n_E9kB4o1QI)
 [Recursos]()
 
+---
 
 ## 11° clase
 [Clase](https://www.youtube.com/watch?v=SHTAEKH_LK0)
 [Recursos]()
+---
 
 ## 12° clase
 [Clase](https://www.youtube.com/watch?v=kKJsnu4cJDA)
 [Recursos]()
+---
+
+## 13° clase
+[Clase](https://www.youtube.com/watch?v=DSRDil3yWKU)
+[Recursos]()
+
+
+---
 
 ## 11/09/2025 
 
 [Clase](https://www.youtube.com/watch?v=G83242-85Xk&t=5781s)
 [Recursos]()
 
+---
