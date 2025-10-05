@@ -6,6 +6,7 @@
 ## 1° Clase Lunes 11/08/2025
 
 - [Clase](https://www.youtube.com/watch?v=Q8cfuzA-Zag)
+* introducción a la herramienta
 
 - [Recursos](https://github.com/MariaVictoria/PowerBi-Upateco/tree/main/Clase1)
 
@@ -16,13 +17,15 @@
 - [Clase](https://www.youtube.com/watch?v=0w2dpPoDAsg)
 
 - [Recursos](https://github.com/MariaVictoria/PowerBi-Upateco/tree/main/clase%202)
-
+* xlxs de venta 
+* population_malasya
 ---
 
 ## 3° Clase Lunes 18/08/2025
 
 - [Clase](https://www.youtube.com/watch?v=51EWW4v0hH8)
 - [Recursos]
+* population_malasya
 
 ---
 
@@ -113,6 +116,20 @@ Faltó
 ## 13° clase
 [Clase](https://www.youtube.com/watch?v=DSRDil3yWKU)
 [Recursos]()
+---
+
+## 14° clase
+[Clase](https://www.youtube.com/watch?v=1q_FGxO08W0)
+[Recursos]()
+---
+## 15° clase
+[Clase](https://www.youtube.com/watch?v=kL-v12fZJa4)
+[Recursos]()
+
+---
+## 16° clase
+[Clase](https://www.youtube.com/watch?v=D2XHF-jH2UE)
+[Recursos]()
 
 
 ---
@@ -123,3 +140,7 @@ Faltó
 [Recursos]()
 
 ---
+
+
+
+[Curso Power BI Desde Cero 2025 | Aprende GRATIS a crear dashboards interactivos en Power BI](https://www.youtube.com/watch?v=FCmz-M87roA)
